@@ -113,3 +113,5 @@ sed -i "3i ===== List of emojis =====" dokuwiki/data/pages/wiki/github_emojis.tx
 cp -r dokuwiki/* "$dest_dir/"
 
 echo "The files have been generated in $dest_dir. If you do not know how to install them into your Dokuwiki install, please type in \`$0 -h' for instructions."
+
+
